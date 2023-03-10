@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(125, 137, 173);
+  }
+  
+h1 {
+    color: rgb(12, 23, 15);
+}
+.center{
+    text-align: center;
+ }
+
+ .fonte-verde {
+      color: green;
+ }
+
+#para {
+    color: rgb(22, 32, 24);
+    font-family: verdana;
+    font-size: 20px;
+ }
