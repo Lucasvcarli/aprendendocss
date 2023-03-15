@@ -1,16 +1,28 @@
 body {
-    background-color: rgb(125, 137, 173);
+    background-color: rgb(138, 138, 145);
   }
   
 h1 {
-    color: rgb(12, 23, 15);
+    color: #05170a;
+    background-color:rgb(241, 23, 23);
+    border: 2px solid rgb(138, 135, 135);
 }
 .center{
     text-align: center;
  }
+/*CLASS*/
+.center {
+  text-align: center;
+}
 
- .fonte-verde {
-      color: green;
+.fonte-verde {
+      color: rgb(4, 19, 4);
+ }
+
+ /*ID*/
+ #para{
+      font-family: Verdana;
+      font-size: 20px;
  }
 
 #para {
