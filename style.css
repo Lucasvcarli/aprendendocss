@@ -1,36 +1,74 @@
 body {
+<<<<<<< HEAD
+  background-color: rgb(138, 138, 145);
+  background-image: url("branco 2.png");
+  font-family: 'Lora', Georgia, 'Times New Roman', Times, serif;
+}
+=======
     background-color: rgb(225, 225, 234);
   }
+>>>>>>> c420745326ea9b28e0ffc307648a2fc3a2da6f68
   
 
   
 h1 {
+<<<<<<< HEAD
+  color: #05170a;
+  background-color:rgb(235, 25, 25);
+  opacity: 1;
+  text-shadow: 2px 2px 5px yellow;
+  font-family: 'Sophia';
+=======
     color: #000000;
     background-color:rgb(250, 0, 0);
     border: 2px solid rgb(138, 135, 135);
+>>>>>>> c420745326ea9b28e0ffc307648a2fc3a2da6f68
 }
-.center{
-    text-align: center;
- }
+
 /*CLASS*/
+
 .center {
   text-align: center;
+
 }
 
 .fonte-verde {
-      color: rgb(4, 19, 4);
+  color: rgb(13, 16, 13);
+  border-style:solid;
+  border-width:4px 4px 4px 4px;
+  border-color:black;
+  border-radius: 5px;
+  border-left: 50px;
+  border-right: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding:50px;
+ }
+
+ .link{
+  text-align: center;
+  font-size:30px;
+  text-transform: lowercase;
+  border-style:solid;
+  border-color:black;
+ }
+
+ .link a {
+   text-decoration: none;
+   color: red;
+   text-shadow: 2px 2px 5px rgb(0, 0, 0);
  }
 
  /*ID*/
- #para{
-      font-family: Verdana;
-      font-size: 20px;
- }
 
 #para {
-    color: rgb(22, 32, 24);
-    font-family: verdana;
-    font-size: 20px;
+  color: rgb(22, 32, 24);
+  font-family: verdana;
+  font-size: 20px;
  }
 
+<<<<<<< HEAD
+
+=======
  
+>>>>>>> c420745326ea9b28e0ffc307648a2fc3a2da6f68
