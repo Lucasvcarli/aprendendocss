@@ -1,10 +1,12 @@
 body {
-    background-color: rgb(138, 138, 145);
+    background-color: rgb(225, 225, 234);
   }
   
+
+  
 h1 {
-    color: #05170a;
-    background-color:rgb(241, 23, 23);
+    color: #000000;
+    background-color:rgb(250, 0, 0);
     border: 2px solid rgb(138, 135, 135);
 }
 .center{
@@ -30,3 +32,5 @@ h1 {
     font-family: verdana;
     font-size: 20px;
  }
+
+ 
